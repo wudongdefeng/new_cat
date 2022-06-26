@@ -91,5 +91,5 @@ jobs:
           git config --local user.email "action@github.com"
           git remote set-url --add origin "https://${{ github.actor }}:${{ secrets.GITHUB_TOKEN }}@github.com/${{ github.repository }}"
           git add --all
-          git commit -m "${{ env.commit }}"
+          git commit -m "${{ env.commit }}" && echo "no change"
           git push -u -f origin master
