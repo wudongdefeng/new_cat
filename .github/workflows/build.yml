@@ -86,6 +86,8 @@ jobs:
         if: ${{ env.commit }}
         run: |
           rm -rf TVBoxOSC
+          git clone https://framagit.org/lzk23559/tvbox.git ~/xyq
+          cp -r ~/xyq/* ./xyq
           sed -i '/url =/d' ./.git/config
           git config --local user.name "actions"
           git config --local user.email "action@github.com"
