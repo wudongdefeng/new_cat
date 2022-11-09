@@ -173,6 +173,8 @@ jobs:
           git remote set-url --add origin "https://${{ github.actor }}:${{ secrets.GITHUB_TOKEN }}@github.com/${{ github.repository }}"
           git pull --rebase
           sed -i "/${{ matrix.userName }}\/${{ matrix.repoName }}/s#Updated: [a-zA-Z0-9]*#Updated: ${{ env.commit }}#" README.md
+          git clone https://framagit.org/lzk23559/tvbox.git ~/xyq
+          cp -r ~/xyq/* ./xyq
           git add --all
           git commit -m "${{ env.commit }}"
           git push -u -f origin master
