@@ -5,7 +5,7 @@
 XYQTVBox插件仓库
 推送源码由github上的大佬 俊于 提供，经我修改适配海阔相关推送。
 
-XYQTVBox.zip为推送插件整套文件压缩包（内含香雅情规则和道长js规则）。
+XYQTVBox.zip为推送插件整套文件压缩包（内含少量香雅情规则）。
 
 TVBox_Taka_20221105.apk为黑盒图标版TVBox（Takagen版）
 github开源地址 https://github.com/takagen99/Box

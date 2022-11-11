@@ -5,9 +5,6 @@
 配置接口
 clan://localhost/XYQTVBox/XYQTVBox.json
 
-alitoken.txt文件是推送阿里云盘链接需要的token，
-如果失效后请打开编辑替换成自己账号的token或大众token。
-
 后续文件更新网址
 https://framagit.org/lzk23559/tvbox/-/tree/main
 
