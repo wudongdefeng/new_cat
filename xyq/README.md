@@ -1,5 +1,9 @@
 # XYQTVBox说明文档
 
+11月28日更新
+
+支持厂长，素白白过人机验证。
+
 11月15日更新
 
 支持对海阔网页投屏与投屏直链的链接解析。
@@ -26,3 +30,8 @@ TVBox_去列表循环播放_20221105.apk为白蓝盒图标版TVBox（Q版，俊�
 
 github开源地址 https://github.com/q215613905/TVBoxOS
 
+影视仓_2.0.4_opt.apk为多仓版TVBox（安卓哥版）
+
+多仓版配置接口（首页点多仓按钮后输入）
+
+clan://localhost/XYQTVBox/hiker_store.json

@@ -5,6 +5,9 @@
 配置接口
 clan://localhost/XYQTVBox/XYQTVBox.json
 
+多仓配置接口
+clan://localhost/XYQTVBox/hiker_store.json
+
 后续文件更新网址
 https://framagit.org/lzk23559/tvbox/-/tree/main
 
