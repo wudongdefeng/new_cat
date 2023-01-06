@@ -1,4 +1,6 @@
 # XYQTVBox说明文档
+海阔端推送相关规则
+https://pd.qq.com/s/553sflwje?shareSource=5
 
 11月28日更新
 
