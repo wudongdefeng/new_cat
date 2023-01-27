@@ -32,8 +32,8 @@ TVBox_去列表循环播放_20221105.apk为白蓝盒图标版TVBox（Q版，俊�
 
 github开源地址 https://github.com/q215613905/TVBoxOS
 
-影视仓_2.0.4_opt.apk为多仓版TVBox（安卓哥版）
+影视仓apk为多仓版TVBox（安卓哥版）
 
-多仓版配置接口（首页点多仓按钮后输入）
+多仓版配置接口（首页点多仓/配置按钮后输入）
 
 clan://localhost/XYQTVBox/hiker_store.json
