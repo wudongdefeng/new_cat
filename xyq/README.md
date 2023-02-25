@@ -1,6 +1,10 @@
 # XYQTVBox说明文档
-海阔端推送相关规则
+海阔视界端推送相关规则
 https://pd.qq.com/s/553sflwje?shareSource=5
+
+海阔视界APP下载地址（手机版软件）
+
+https://haikuoshijie.cn/archives/fang-yuan-ying-shi-chang-jian-wen-ti
 
 11月28日更新
 
@@ -24,16 +28,19 @@ XYQTVBox插件仓库
 
 XYQTVBox.zip为推送插件整套文件压缩包（内含少量香雅情规则）。
 
-TVBox_Taka_20221105.apk为黑盒图标版TVBox（Takagen版）
+TVBox_Taka_20230215.apk为黑盒图标版TVBox（Takagen版）
 
 github开源地址 https://github.com/takagen99/Box
 
-TVBox_去列表循环播放_20221105.apk为白蓝盒图标版TVBox（Q版，俊版）
+TVBox_俊版_20230223.apk为白蓝盒图标版TVBox（Q版）
 
 github开源地址 https://github.com/q215613905/TVBoxOS
 
-影视仓apk为多仓版TVBox（安卓哥版）
+影视仓apk为多仓版TVBox（公众号 安卓哥开发）
 
 多仓版配置接口（首页点多仓/配置按钮后输入）
 
 clan://localhost/XYQTVBox/hiker_store.json
+
+
+<img src="weixinqrcode.png" width="300">
