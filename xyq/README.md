@@ -25,6 +25,9 @@ github开源地址 https://github.com/q215613905/TVBoxOS
 
 影视仓apk为多仓版TVBox（公众号 安卓哥开发）
 
+
+# 影视仓V3为安卓4专用版
+
 多仓版配置接口（首页点多仓/配置按钮后输入）
 
 clan://localhost/XYQTVBox/hiker_store.json
